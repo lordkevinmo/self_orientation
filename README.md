@@ -11,3 +11,8 @@ He'll always make it. This is a good start for independent driving ^^
 The network consists of an input of 5 units, followed by hidden Fully connected layer of 30 neurons. The exit from the network contains 3
 units corresponding to three actions of a car: drive forward, turn right and turn left.
 
+![alt text](https://github.com/lordkevinmo/self_orientation/blob/master/Car.png)
+
+![alt text](https://github.com/lordkevinmo/self_orientation/blob/master/Car_2.png)
+
+![alt text](https://github.com/lordkevinmo/self_orientation/blob/master/Car-3.png)
